@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "app_common.h": "c",
+        "stdio.h": "c",
+        "device_nv.h": "c",
+        "soc_types.h": "c",
+        "soc_ft_nv.h": "c",
+        "app_nv.h": "c",
+        "app_res.h": "c",
+        "soc_mdm_mem.h": "c",
+        "app_uart.h": "c",
+        "device_info.h": "c"
+    }
+}
